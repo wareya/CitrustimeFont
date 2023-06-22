@@ -1,4 +1,4 @@
-Copyright (c) 2011 Wareya (wareya@gmail.com),
+Copyright (c) 2023 Wareya (wareya@gmail.com),
 with Reserved Font Name "Citrustime"
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
