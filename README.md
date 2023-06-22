@@ -1,6 +1,8 @@
 # CitrustimeFont
 A comic-style font for projects that can't license a commercial font. Not as good as the big ones, but good enough!
 
+Download link: https://github.com/wareya/CitrustimeFont/raw/main/Citrustime.ttf
+
 <p align="center">
    <img src="header.png">
 </p>
