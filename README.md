@@ -9,7 +9,7 @@ Download link: https://github.com/wareya/CitrustimeFont/raw/main/Citrustime.ttf
 
 ## About
 
-Made in Birdfont, licensed under the OFL.
+Made in Birdfont, licensed under the OFL. The OFL is the standard license for open-source fonts.
 
 Citrustime is inspired by, but not based on, the free (for personal use) Clementine font from JibbaJabba Fonts. In turn, Clementine was inspired by the comicbook lettering of Clem Robins. A distinctive quality of this style is irregular stroke weight, which I tried to replicate. This is also why Citrustime is an all-caps font; normal comicbook lettering is always all-caps. The only different lower-case glyph is the lower-case i not having the cross bars of the capital i, which is necessary because comicbook lettering doesn't normally use cross-bars for the letter i in the middles of words.
 
